@@ -1,0 +1,21 @@
+.coloraBgP{
+    background-color: #616670;
+    height: 650px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.logCentro{
+    background: #FFF;
+    margin-top: 1%;
+    height: 95%;
+    width: 70%;
+}
+.btnLog{
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+.alturaLog{
+    height: 38em !important;
+}
